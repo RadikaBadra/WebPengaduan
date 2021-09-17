@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-color: rgb(0, 153, 255);
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    height: 30px;
+}
+h3{
+    color: white;
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav ul{
+    float: right;
+}
+nav li{
+    display: inline; 
+}
+nav li a{
+    color: white;
+    margin-right: 40px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.latar{
+    
+    margin-top: 100px;
+    height: 100vh; 
+}
+.latar h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table.paleBlueRows {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    border-collapse: collapse;
+  }
+  table.paleBlueRows td{
+    border-right: 1px solid #AAAAAA;
+    border-left:  1px solid #AAAAAA;
+    padding: 3px 2px;
+  }
+  table.paleBlueRows{
+    border-bottom: 1px solid #AAAAAA;
+    border-right: 1px solid #AAAAAA;
+    border-left:  1px solid #AAAAAA;
+    border-top:  1px solid #AAAAAA;
+  }
+  table.paleBlueRows tbody td {
+    font-size: 13px;
+  }
+  table.paleBlueRows thead {
+    background: #00aeff;
+    border-bottom: 1px solid #AAAAAA;
+  }
+  table.paleBlueRows thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+  }
+  table.paleBlueRows tfoot td {
+    font-size: 14px;
+  }
+  table .btn-tanggapi{
+    background-color: #00aeff;
+    text-decoration: none;
+    color: white;
+    padding: 2px;
+  }
+  table .btn-tandai{
+    background-color: #fffb00;
+    text-decoration: none;
+    color: white;
+    padding: 2px;
+  }
+  table .btn-detail{
+    background-color: #00ff6a;
+    text-decoration: none;
+    color: white;
+    padding: 2px;
+  }
+  .pilih-bulan{
+    margin-left: 10%;
+    margin-bottom: 10px;
+  }
+  .btn-tambah{
+    margin-left: 140px;
+    text-decoration: none;
+    background-color: rgb(11, 184, 34);
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 130px;
+    text-align: center;
+  }
+  .btn-tambah a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+  }
